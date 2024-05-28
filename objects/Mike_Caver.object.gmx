@@ -45,7 +45,7 @@
         <exetype>1</exetype>
         <functionname>action_kill_object</functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>door</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
       </action>
@@ -137,11 +137,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0-4</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -191,11 +191,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0-4</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -245,11 +245,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0-4</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -299,11 +299,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0-4</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
