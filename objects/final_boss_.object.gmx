@@ -25,12 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("111101111", 2)
-</string>
+            <string>111101111</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>

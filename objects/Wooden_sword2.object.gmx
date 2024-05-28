@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("Wooden sword")
-</string>
+            <string>Wooden sword</string>
           </argument>
         </arguments>
       </action>

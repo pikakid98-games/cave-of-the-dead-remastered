@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("object39")
-</string>
+            <string>object39</string>
           </argument>
         </arguments>
       </action>

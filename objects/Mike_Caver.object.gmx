@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>-100</object>
+            <object>detonator_1_</object>
           </argument>
           <argument>
             <kind>4</kind>
@@ -83,8 +83,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000010000", 0)
-</string>
+            <string>000010000</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -110,9 +109,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(36, -7, 1)
-action_move("010000000", 5)
-</sprite>
+            <sprite>down_walk</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -121,6 +118,30 @@ action_move("010000000", 5)
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>101</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>010000000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>5</string>
           </argument>
         </arguments>
       </action>
@@ -142,9 +163,7 @@ action_move("010000000", 5)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(40, -7, 1)
-action_move("000001000", 5)
-</sprite>
+            <sprite>right_walk</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -153,6 +172,30 @@ action_move("000001000", 5)
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>101</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>000001000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>5</string>
           </argument>
         </arguments>
       </action>
@@ -174,9 +217,7 @@ action_move("000001000", 5)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(34, -7, 1)
-action_move("000000010", 5)
-</sprite>
+            <sprite>up_walk</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -185,6 +226,30 @@ action_move("000000010", 5)
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>101</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>000000010</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>5</string>
           </argument>
         </arguments>
       </action>
@@ -206,9 +271,7 @@ action_move("000000010", 5)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(38, -7, 1)
-action_move("000100000", 5)
-</sprite>
+            <sprite>left_walk</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -217,6 +280,30 @@ action_move("000100000", 5)
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>101</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>000100000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>5</string>
           </argument>
         </arguments>
       </action>
@@ -328,9 +415,7 @@ action_move("000100000", 5)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(37, 0, 1)
-action_move("000010000", 0)
-</sprite>
+            <sprite>down_stop</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -360,9 +445,7 @@ action_move("000010000", 0)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(41, 0, 1)
-action_move("000010000", 0)
-</sprite>
+            <sprite>right_stop</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -392,9 +475,7 @@ action_move("000010000", 0)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(35, 0, 1)
-action_move("000010000", 0)
-</sprite>
+            <sprite>up_stop</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -424,9 +505,7 @@ action_move("000010000", 0)
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(39, 0, 1)
-action_move("000010000", 0)
-</sprite>
+            <sprite>left_stop</sprite>
           </argument>
           <argument>
             <kind>0</kind>
