@@ -25,9 +25,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>action_another_room(42)
-action_end_sound(9)
-</room>
+            <room>cotdremastered_title</room>
           </argument>
         </arguments>
       </action>

@@ -25,9 +25,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>action_another_room(3)
-action_end_sound(9)
-</room>
+            <room>hub_0</room>
           </argument>
         </arguments>
       </action>

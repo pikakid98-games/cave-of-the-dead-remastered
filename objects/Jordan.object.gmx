@@ -83,8 +83,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000010000", 0)
-</string>
+            <string>000010000</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -132,8 +131,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("Loading Is Disabled In The Classic Version")
-</string>
+            <string>Loading Is Disabled In The Classic Version</string>
           </argument>
         </arguments>
       </action>
@@ -155,8 +153,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("Clear Highscore Is Disabled In The Classic Version (And Remastered)")
-</string>
+            <string>Clear Highscore Is Disabled In The Classic Version (And Remastered)</string>
           </argument>
         </arguments>
       </action>
@@ -178,13 +175,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("010000000", 3)
-action_sprite_set(36, 0, 1)
-</string>
+            <string>010000000</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -206,13 +201,11 @@ action_sprite_set(36, 0, 1)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000001000", 3)
-action_sprite_set(40, 0, 1)
-</string>
+            <string>000001000</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -234,13 +227,11 @@ action_sprite_set(40, 0, 1)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000000010", 3)
-action_sprite_set(34, 0, 1)
-</string>
+            <string>000000010</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -262,13 +253,11 @@ action_sprite_set(34, 0, 1)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000100000", 3)
-action_sprite_set(38, 0, 1)
-</string>
+            <string>000100000</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
