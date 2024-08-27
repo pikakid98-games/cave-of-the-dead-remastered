@@ -53,7 +53,7 @@
   <instances>
     <instance objName="cotdtitle" x="64" y="96" name="inst_186A1" locked="0" code="" scaleX="0.866537690162659" scaleY="0.899999976158142" colour="4294967295" rotation="0"/>
     <instance objName="cotd" x="224" y="320" name="inst_186A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="unuses_obj" x="512" y="672" name="inst_186A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="unused_obj" x="512" y="672" name="inst_186A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="cotdr" x="224" y="448" name="inst_186A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
