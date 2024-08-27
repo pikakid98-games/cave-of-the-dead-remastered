@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("stick")
-</string>
+            <string>stick</string>
           </argument>
         </arguments>
       </action>

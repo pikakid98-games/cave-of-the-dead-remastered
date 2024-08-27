@@ -68,8 +68,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000010000", 0)
-</string>
+            <string>000010000</string>
           </argument>
           <argument>
             <kind>0</kind>

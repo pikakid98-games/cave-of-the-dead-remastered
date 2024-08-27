@@ -32,7 +32,7 @@
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="training_bg" x="0" y="0" htiled="-1" vtiled="-1" hspeed="2" vspeed="2" stretch="0"/>
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="unused_bg" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -51,21 +51,29 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="cotdtitle" x="64" y="96" name="inst_186A5" locked="0" code="" scaleX="0.866537690162659" scaleY="0.899999976158142" colour="4294967295" rotation="0"/>
-    <instance objName="statue" x="96" y="288" name="inst_186A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object40" x="192" y="288" name="inst_186A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wooden_sword2" x="96" y="384" name="inst_186A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Normal_sword3" x="288" y="288" name="inst_186A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="stick4" x="384" y="384" name="inst_186AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Sword_of_legends5" x="384" y="288" name="inst_186AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="treasure_chest_a" x="480" y="288" name="inst_186AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="treasure_chest_b" x="192" y="384" name="inst_186AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bow" x="576" y="288" name="inst_186AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object39" x="672" y="288" name="inst_186AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object26" x="288" y="384" name="inst_186B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="statue_angry" x="768" y="288" name="inst_186B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object33" x="864" y="288" name="inst_186B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="back_obj" x="448" y="512" name="inst_186B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="statue" x="64" y="224" name="inst_186A6" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="object40" x="160" y="224" name="inst_186A7" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="Wooden_sword2" x="896" y="224" name="inst_186A8" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="Normal_sword3" x="256" y="224" name="inst_186A9" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="stick4" x="256" y="320" name="inst_186AA" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="Sword_of_legends5" x="352" y="224" name="inst_186AB" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="treasure_chest_a" x="448" y="224" name="inst_186AC" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="treasure_chest_b" x="64" y="320" name="inst_186AD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="bow" x="544" y="224" name="inst_186AE" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="object39" x="608" y="224" name="inst_186AF" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="object26" x="160" y="320" name="inst_186B0" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="statue_angry" x="704" y="224" name="inst_186B1" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="object33" x="800" y="224" name="inst_186B2" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="back_obj" x="896" y="0" name="inst_186B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="final_boss_final_form_" x="608" y="320" name="inst_84ACFD20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="very_final_boss_s_flame__weakened__" x="352" y="320" name="inst_C0F610DE" locked="0" code="" scaleX="2.13333344459534" scaleY="1.77777779102325" colour="4294967295" rotation="0"/>
+    <instance objName="mognorax" x="416" y="448" name="inst_FB6A1CF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object110" x="448" y="320" name="inst_BC89C7FD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="cotdtitle_old" x="32" y="96" name="inst_D7DC8D98" locked="0" code="" scaleX="0.897485494613647" scaleY="0.901408433914185" colour="4294967295" rotation="0"/>
+    <instance objName="pikakid98studiosintro_obj" x="32" y="416" name="inst_CE400BE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="v0_1" x="32" y="672" name="inst_48530AFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="v0_1_1" x="192" y="672" name="inst_00C63C85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object22" x="544" y="320" name="inst_F2C81998" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

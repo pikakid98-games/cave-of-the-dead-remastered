@@ -11,48 +11,21 @@
     <event eventtype="6" enumb="4">
       <action>
         <libid>1</libid>
-        <id>322</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring>url_open(argument0);
-</codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>https://pikakid98studios.wordpress.com</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-    <event eventtype="7" enumb="7">
-      <action>
-        <libid>1</libid>
-        <id>211</id>
+        <id>321</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>0</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_sound</functionname>
+        <functionname>action_message</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>6</kind>
-            <sound>main_music_remaster_menu</sound>
-          </argument>
-          <argument>
-            <kind>3</kind>
-            <string>1</string>
+            <kind>2</kind>
+            <string>pikakid98studiosintro_obj / Abandoned company logo (With Pika's missing horn)</string>
           </argument>
         </arguments>
       </action>

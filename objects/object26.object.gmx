@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("object26")
-</string>
+            <string>object26 / Dynamite</string>
           </argument>
         </arguments>
       </action>

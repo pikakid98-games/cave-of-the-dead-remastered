@@ -25,12 +25,11 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(10, 1)
-</sound>
+            <sound>remaster_title_snd</sound>
           </argument>
           <argument>
             <kind>3</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
