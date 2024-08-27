@@ -45,7 +45,7 @@
         <exetype>1</exetype>
         <functionname>action_bounce</functionname>
         <codestring></codestring>
-        <whoName>object1</whoName>
+        <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>

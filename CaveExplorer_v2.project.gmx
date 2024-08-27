@@ -6,14 +6,6 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\training_snd</sound>
-    <sound>sound\level_1_snd</sound>
-    <sound>sound\level_2_snd</sound>
-    <sound>sound\level_3_snd</sound>
-    <sound>sound\level_4_snd</sound>
-    <sound>sound\level_5_snd</sound>
-    <sound>sound\boss_battle_snd</sound>
-    <sound>sound\final_battle_snd</sound>
-    <sound>sound\final_battle_soul_snd</sound>
     <sound>sound\main_music_remaster_menu</sound>
     <sound>sound\remaster_title_snd</sound>
   </sounds>
@@ -143,8 +135,8 @@
     <object>objects\detonator_1_</object>
     <object>objects\deternotor_2_</object>
     <object>objects\deternator_3_</object>
-    <object>objects\detonator_5_</object>
     <object>objects\detonator_4_</object>
+    <object>objects\detonator_5_</object>
     <object>objects\final_detonator_</object>
     <object>objects\object23</object>
     <object>objects\guard_ghosts_</object>
@@ -235,50 +227,54 @@
     <room>rooms\Pikakid98_Studios_Intro</room>
     <room>rooms\cotd_main_menu</room>
     <room>rooms\Unused_Assets_Room</room>
-    <room>rooms\hub_0</room>
-    <room>rooms\training</room>
-    <room>rooms\hub_1</room>
-    <room>rooms\level_1_area_1</room>
-    <room>rooms\level_1_area_2</room>
-    <room>rooms\level_1_BOSS</room>
-    <room>rooms\scroll_room_1</room>
-    <room>rooms\hub_2</room>
-    <room>rooms\level_2_area_1</room>
-    <room>rooms\level_2_area_2</room>
-    <room>rooms\level_2_BOSS</room>
-    <room>rooms\scroll_room_2</room>
-    <room>rooms\hub_3</room>
-    <room>rooms\level_3_area_1</room>
-    <room>rooms\level_3_area_2</room>
-    <room>rooms\level_3_BOSS</room>
-    <room>rooms\scroll_room_3</room>
-    <room>rooms\hub_4</room>
-    <room>rooms\level_4_area_1</room>
-    <room>rooms\level_4_area_2</room>
-    <room>rooms\level_4_BOSS</room>
-    <room>rooms\scroll_room_4</room>
-    <room>rooms\hub_5</room>
-    <room>rooms\path_to_the_tower</room>
-    <room>rooms\level_5_area_1</room>
-    <room>rooms\level_5_area_2</room>
-    <room>rooms\level_5_MINI_BOSS</room>
-    <room>rooms\level_5_area_3</room>
-    <room>rooms\level_5_area_4</room>
-    <room>rooms\level_5_BOSS</room>
-    <room>rooms\scroll_room_5</room>
-    <room>rooms\hub_6</room>
-    <room>rooms\FB_area_1</room>
-    <room>rooms\FB_area_2</room>
-    <room>rooms\FB_area_3</room>
-    <room>rooms\final_battle</room>
-    <room>rooms\final_path</room>
-    <room>rooms\the_very_final_battle</room>
-    <room>rooms\the_credits_room</room>
-    <room>rooms\cotdremastered_title</room>
-    <room>rooms\r_hub_0</room>
-    <room>rooms\r_training</room>
-    <room>rooms\r_hub_1</room>
-    <room>rooms\End_Of_Alpha</room>
+    <rooms name="Classic">
+      <room>rooms\hub_0</room>
+      <room>rooms\training</room>
+      <room>rooms\hub_1</room>
+      <room>rooms\level_1_area_1</room>
+      <room>rooms\level_1_area_2</room>
+      <room>rooms\level_1_BOSS</room>
+      <room>rooms\scroll_room_1</room>
+      <room>rooms\hub_2</room>
+      <room>rooms\level_2_area_1</room>
+      <room>rooms\level_2_area_2</room>
+      <room>rooms\level_2_BOSS</room>
+      <room>rooms\scroll_room_2</room>
+      <room>rooms\hub_3</room>
+      <room>rooms\level_3_area_1</room>
+      <room>rooms\level_3_area_2</room>
+      <room>rooms\level_3_BOSS</room>
+      <room>rooms\scroll_room_3</room>
+      <room>rooms\hub_4</room>
+      <room>rooms\level_4_area_1</room>
+      <room>rooms\level_4_area_2</room>
+      <room>rooms\level_4_BOSS</room>
+      <room>rooms\scroll_room_4</room>
+      <room>rooms\hub_5</room>
+      <room>rooms\path_to_the_tower</room>
+      <room>rooms\level_5_area_1</room>
+      <room>rooms\level_5_area_2</room>
+      <room>rooms\level_5_MINI_BOSS</room>
+      <room>rooms\level_5_area_3</room>
+      <room>rooms\level_5_area_4</room>
+      <room>rooms\level_5_BOSS</room>
+      <room>rooms\scroll_room_5</room>
+      <room>rooms\hub_6</room>
+      <room>rooms\FB_area_1</room>
+      <room>rooms\FB_area_2</room>
+      <room>rooms\FB_area_3</room>
+      <room>rooms\final_battle</room>
+      <room>rooms\final_path</room>
+      <room>rooms\the_very_final_battle</room>
+      <room>rooms\the_credits_room</room>
+    </rooms>
+    <rooms name="Remaster">
+      <room>rooms\cotdremastered_title</room>
+      <room>rooms\r_hub_0</room>
+      <room>rooms\r_training</room>
+      <room>rooms\r_hub_1</room>
+      <room>rooms\End_Of_Alpha</room>
+    </rooms>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
